@@ -9,7 +9,7 @@ El juego permite agregar amigos a una lista, realizar un sorteo para asignar a c
 Funcionalidades
 Agregar Amigos: Los usuarios pueden ingresar nombres en un campo de texto. Al hacer clic en "Añadir", el nombre se agrega a la lista de amigos. Se verifica que no haya nombres duplicados y que el campo no esté vacío.
 
-Sorteo Aleatorio: Al hacer clic en el botón "Sartear amigo", se asigna un amigo secreto a cada usuario de manera aleatoria. El sorteo garantiza que no se repita un amigo secreto para cada jugador.
+Sorteo Aleatorio: Al hacer clic en el botón "Sortear amigo", se asigna un amigo secreto a cada usuario de manera aleatoria. El sorteo garantiza que no se repita un amigo secreto para cada jugador.
 
 Reiniciar Juego: El botón "Reiniciar sorteo" limpia la lista de amigos y reinicia el sorteo para comenzar de nuevo.
 
@@ -24,7 +24,7 @@ Ingrese un nombre en el campo de texto.
 Presione el botón "Añadir" para agregar el nombre a la lista de amigos.
 Si el nombre ya existe o el campo está vacío, se mostrará un mensaje de advertencia.
 2. Realizar Sorteo
-Después de agregar al menos un amigo, presione el botón "Sartear amigo" para asignar un amigo secreto de manera aleatoria.
+Después de agregar al menos un amigo, presione el botón "Sortear amigo" para asignar un amigo secreto de manera aleatoria.
 Si todos los amigos ya han sido sorteados, el botón se deshabilitará.
 3. Reiniciar el Juego
 Si desea comenzar de nuevo, presione el botón "Reiniciar sorteo". Esto borrará la lista de amigos y reiniciará el sorteo.
