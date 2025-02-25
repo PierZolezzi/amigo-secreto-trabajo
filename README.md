@@ -1,2 +1,1 @@
-# proyecto-amigo-secreto-inicial
-Avances del primer día
+Juego del Amigo Secreto
