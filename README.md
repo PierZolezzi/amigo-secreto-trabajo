@@ -44,3 +44,6 @@ Notas
 El botón de sorteo se deshabilita automáticamente cuando todos los amigos han sido sorteados.
 Puedes personalizar los estilos (CSS) y agregar más funcionalidades según sea necesario.
 ¡Disfruta jugando al Amigo Secreto!
+
+Autor
+Pierpaolo Zolezzi Seoane
