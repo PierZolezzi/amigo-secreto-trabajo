@@ -3,6 +3,9 @@ Este es un juego simple de Amigo Secreto desarrollado en JavaScript, HTML y CSS.
 Descripción
 El juego permite agregar amigos a una lista, realizar un sorteo para asignar a cada uno un amigo secreto y mostrar los resultados en la página. Una vez que todos los amigos hayan sido sorteados, el juego se puede reiniciar para empezar nuevamente.
 
+![Captura de pantalla 2025-02-25 124949](https://github.com/user-attachments/assets/a8535a02-22ba-47b3-b733-465d334795a5)
+
+
 Funcionalidades
 Agregar Amigos: Los usuarios pueden ingresar nombres en un campo de texto. Al hacer clic en "Añadir", el nombre se agrega a la lista de amigos. Se verifica que no haya nombres duplicados y que el campo no esté vacío.
 
